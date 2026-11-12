@@ -1,0 +1,6 @@
+{
+  "name": "Hardware Assistant",
+  "description": "Local Linux Hardware Q&A Assistant with AI-driven specs intelligence, real-time diagnostic telemetry, and FastAPI backend integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
